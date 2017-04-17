@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "428044380420",
+    "project_id": "zodiacsign-164101"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428044380420:android:31977d46146d3e4b",
+        "android_client_info": {
+          "package_name": "com.example.dooollydd.zodiacsign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428044380420-jfs5lhc2jv0c9vl35n15cpojglc80seo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dooollydd.zodiacsign",
+            "certificate_hash": "68d5e7d7a9acbc69038b1bb2c82d6ae7ea178f81"
+          }
+        },
+        {
+          "client_id": "428044380420-9ofhbeuvi8miitdmhnd73hf6b0kaq9od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDipl5QHBzWp2bPdJ0fmx5kWfc19UVIHvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

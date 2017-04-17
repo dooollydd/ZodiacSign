@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/3270372d9712bc8aa671015ea3639357b4e8c87d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_52d0596cd203e1d0a98fd49b082bc1b036bea06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/b98215a4962d3edd50cbc268df79ad343b1660a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_b07fa7f2d40b0baedcb13fde9984398569b75b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/e001a6a9d01242cfb667003d89ed28e88cc1e3c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_05a197942f59ff409654b5c418e0f92061dd22c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/05ce8f1c0dbb40bb40c0d38214b0958b7591cb36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_be2a50a85ec73f911f299a065d36e3a3c29d56ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/8c95c7107f8a2b145c750a471b22592dd2d0e0e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_9ae6349505bcd3ad9b864e0d79a6a7a927bda240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/edc4459337e5ad048d4f23753bfd026da16fcd3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_b6b16787d698afd96cc8c2c4a270e97dc8888838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/e4979f9e0fd0812a1e8c0b09e19a20fe3cd08b96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_a02fd364e43afd5e50630b62ff29675827050cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/06da3ae63fd02a6020e1e9eb69d6a27700ed05e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_ab54c8340c91c5490f40e4903ef80d1cec4496c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/2bb44d3adc6f10c6f2f1ec529d811d2ec5717eaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_55cc815b57e5cd2cb0d80b6cccf80400a3bd6ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/1e410750d96573ea2701442207358efe9091aa91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_05ec28e884575340c33e4a38ebe7e35536afa094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/686a15b72e898dd8b034a658138a4275cf7c1c75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_c71e2264660a5fb4f8ad9c7665529ba563092ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/5daae66ed1dcc08dff0793a63aef97458267a56f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_ec61d2e2029b7da7277104df6d8c0dd1d86b6c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/398bb7486f9b681fbe2be23d3184638c23e1fe52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_1e5f5cd055a5e1382f30a0be8d187439a95a8e56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/41c9657304f155f0e33b637084732f8aac4f33ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_24451f5c24aad7d93a0588d769b35fd89fcdda4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/25353fb57fce22ad277194713e8dde713f83c8cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_bfb67feda643a42dd35031b02e483f577461b5b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/891a8023ea8479a18564b5b77a424db989a8864f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_dba0a6b4005ebcc814b7251803a75baec283af8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/6632b2c9d144995830156187614ca41295d7abbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_e39c3d56f7c7734be072df4da995b8f2f5c3b9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/61a59fbac5e346eed14c83dbacd26f629cc85e54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_39ad28f3dca3d415c342910d0036902f96322236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/305b02ff294ec380cb51e317144eae7a4ce1969e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_ad7d5a6b106bba35eefb320247c6d01dd6794408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/61177cfeee831961f31aa6e7a4aba1c3308cb7c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_0fc6c24a48e4dfbba7ea1946d95ed73826b63799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dooollydd/.android/build-cache/d31e6246780db1fd946b990d033831bbb38e841f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/Dooollydd/Desktop/ZodiacSign/app/build/intermediates/pre-dexed/debug/classes_5935e6d43ef3367a9c5412dcf206d18a913e42be.jar" />
+    </item>
+
+</items>
